@@ -1,0 +1,29 @@
+#reg-forward input,
+#reg-forward button {
+    display: block;
+    width: 100%;
+    height: 50px;
+    padding: 0 12px;
+    box-sizing: border-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    font-size: 18px;
+    letter-spacing: 3px;
+}
+
+#reg-forward button {
+    border: none!important;
+    background: #FDB415;
+    font-size: 18px;
+}
+
+#reg-zip-error {
+    display: block;
+    color: red;
+    font-size: .6em;
+    text-align: center;
+}
+
+.reg-zip-input {
+    margin-bottom: 20px;
+}
